@@ -1,0 +1,7 @@
+# ninja log v5
+2	121	1649013260273678924	CMakeFiles/even_portfolio.dir/CurrencyData.cpp.o	f8b3842906e748f7
+2	121	1649013260273669344	CMakeFiles/even_portfolio.dir/Currency_Calc.cpp.o	9b34d98461b8064d
+1	1487	1649013261634890119	CMakeFiles/even_portfolio.dir/main.cpp.o	d05e8c262dbdce79
+1488	1600	1649013261753714433	even_portfolio	4b14eb9f177da9e
+2	673	1649013279162005411	CMakeFiles/even_portfolio.dir/main.cpp.o	d05e8c262dbdce79
+673	742	1649013279234115052	even_portfolio	4b14eb9f177da9e

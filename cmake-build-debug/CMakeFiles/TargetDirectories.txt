@@ -1,0 +1,3 @@
+/Users/evenmyrennybo/CLionProjects/even_portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/evenmyrennybo/CLionProjects/even_portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/evenmyrennybo/CLionProjects/even_portfolio/cmake-build-debug/CMakeFiles/even_portfolio.dir
